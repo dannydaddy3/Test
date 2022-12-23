@@ -1,3 +1,3 @@
 # Test
 
-https://a.yandex-team.ru/review/3301037/details 
+https://redirect.appmetrica.yandex.com/serve/748542709802814784 
